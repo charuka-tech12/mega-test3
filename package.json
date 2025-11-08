@@ -9,7 +9,7 @@
     "restart": "pm2 restart mizuki-md"
 },
     "dependencies": {
-    "@whiskeysockets/baileys": "npm:baileys-mod",
+    "@whiskeysockets/baileys": "npm:baileys-pro",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
