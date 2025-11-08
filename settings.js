@@ -65,7 +65,7 @@ BOT_NUMBER: process.env.BOT_NUMBER || "94775228949",
 BOT_NAME: process.env.BOT_NAME || "MIZUKI-MD",
 LANG: process.env.LANG || "SI",
 REACT: process.env.REACT || "💓💓",
-SONG_JID: process.env.SONG_JID || "120363376466846343@newsletter",
+SONG_JID: process.env.SONG_JID || "",
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://postgres:@Asitha2005b@db.waiqbrnuxkjebghzhovz.supabase.co:5432/postgres' : process.env.POSTGRESQL_URL,
 MONGODB_URL: process.env.MONGODB_URL || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
    
