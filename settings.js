@@ -62,7 +62,7 @@ AUTO_NEWS_SENDER: process.env.AUTO_NEWS_SENDER === undefined ? "false" : process
 //👇═════════════👇 කැමති නම් වෙනස් කරන්න══════════
 
 BOT_NUMBER: process.env.BOT_NUMBER || "94710167783",
-BOT_NAME: process.env.BOT_NAME || "MIZUKI-MD",
+BOT_NAME: process.env.BOT_NAME || "MIZUKI-MD-V2",
 LANG: process.env.LANG || "EN",
 REACT: process.env.REACT || "💓💓",
 SONG_JID: process.env.SONG_JID || "120363403271466711@g.us",
