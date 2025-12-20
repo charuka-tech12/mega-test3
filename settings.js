@@ -63,7 +63,7 @@ AUTO_NEWS_SENDER: process.env.AUTO_NEWS_SENDER === undefined ? "false" : process
 
 BOT_NUMBER: process.env.BOT_NUMBER || "94710167783",
 BOT_NAME: process.env.BOT_NAME || "MIZUKI-MD-V2",
-LANG: process.env.LANG || "EN",
+LANG: process.env.LANG || "SI",
 REACT: process.env.REACT || "💓💓",
 SONG_JID: process.env.SONG_JID || "120363403271466711@g.us",
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://sadiya:MTCV3kmoO4YSt6bcK8naY9WCRRO7wL2v@dpg-d07n7k2li9vc73ff97bg-a/sula_md_db' : process.env.POSTGRESQL_URL,
