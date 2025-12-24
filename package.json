@@ -17,7 +17,7 @@
     "axios": "latest",
     "fs-extra": "latest",
     "path": "latest",
-    "node-fetch": "latest",
+    "node-fetch": "^2.6.9",
     "node-cache": "latest",
     "megajs": "latest",
     "qrcode-terminal": "latest",
