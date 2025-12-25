@@ -59,7 +59,7 @@
     "sharp":"latest",
     "acrcloud":"latest",
     "xml2js":"latest",
-    "jimp": "^0.22.12",
+    "jimp": "^0.16.1",
     "cricketlive": "latest",
     "ytsearch-venom": "latest",
     "@sasmeee/wabetainfo":"latest",
